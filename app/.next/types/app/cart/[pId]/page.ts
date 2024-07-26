@@ -1,4 +1,4 @@
-// File: C:\Users\Aditya Pratap\code\Wastepursue\wastepursue-frontened\src\app\cart\[pId]\page.tsx
+// File: C:\Users\Aditya Pratap\code\scrapsell\app\src\app\cart\[pId]\page.tsx
 import * as entry from '../../../../../src/app/cart/[pId]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

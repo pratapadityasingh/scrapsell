@@ -1,4 +1,4 @@
-// File: C:\Users\Aditya Pratap\code\Wastepursue\wastepursue-frontened\src\app\reset-password\[ids]\page.tsx
+// File: C:\Users\Aditya Pratap\code\scrapsell\app\src\app\reset-password\[ids]\page.tsx
 import * as entry from '../../../../../src/app/reset-password/[ids]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
